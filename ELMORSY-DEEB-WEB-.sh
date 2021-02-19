@@ -1,5 +1,5 @@
 #!/bin/bash
-# SayCheese v1.0
+# ELMORSY-DEEB-WEB-
 # coded by: github.com/thelinuxchoice/ELMORSY-DEEB-WEB-
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
