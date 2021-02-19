@@ -42,6 +42,7 @@ printf        Youtube /:AS7AB ELMGRA
 	printf    
 
 printf " \e[1;77m v1.0 coded by github.com/thelinuxchoice/ELMORSY-DEEB-WEB-\e[0m \n"
+
 printf "\n"
 
 
